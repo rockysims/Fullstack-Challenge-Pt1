@@ -1,3 +1,17 @@
+# Usage
+
+* Download repo and install dependencies.
+    * `git clone (this repo)`
+    * `cd (repo folder)`
+    * `yarn install`
+* Install and start redis.
+    * `brew install redis`
+    * `brew services start redis`
+* Start server.
+    * `yarn start`
+
+---
+
 # Copia Fullstack Technical Challenge (Pt 1)
 
 # Goal
